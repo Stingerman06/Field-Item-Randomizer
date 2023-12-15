@@ -1,4 +1,4 @@
-# FFX Field Item Randomizer
+# FFX Field Item Randomizer - Standalone
 
 This randomizer shuffles around field items.
 While this works perfectly fine, there are some things that you will need to know!
