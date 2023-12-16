@@ -3,6 +3,9 @@
 This randomizer shuffles around field items.
 While this works perfectly fine, there are some things that you will need to know!
 
+URGENT!!! 
+There seems to be an odd issue, at least on my end with the randomizer. When injecting the file back into the main data .VBF, a lot of the files(for some reason) pad out evenly and the whole thing breaks the main file. I have NO idea why this is, but this is being looked into.
+
 1. This randomizer does NOT shuffle the following items.
  - Withered Bouquet
  - Flint
